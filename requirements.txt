@@ -1,0 +1,32 @@
+# FastAPI and ASGI server
+fastapi
+uvicorn
+pydantic
+pydantic[email]
+python-multipart
+# Database
+sqlalchemy
+psycopg2-binary
+alembic
+
+# AI and LangGraph (optional - system works without)
+langchain
+langchain-openai
+langgraph
+openai
+
+# Data processing
+numpy
+pandas
+
+# Utilities
+python-dotenv
+requests
+typing-extensions
+
+# Development and testing
+pytest
+httpx
+
+# Production server (optional)
+gunicorn

@@ -1,0 +1,4 @@
+/.env
+/populate.py
+/venv
+/__pycache__
